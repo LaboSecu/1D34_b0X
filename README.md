@@ -19,22 +19,14 @@ Bumping ideas, discussing, fighting (not too much), approuving ideas.
 ## 1D345 Workflow (WIP - TODO) 
 
 ### Submission Step
-#### Inputs
-#### Outputs
 #### Description
 
 ### Thinking Step
-#### Inputs
-#### Outputs
 #### Description
 
 ### Acception Step
-#### Inputs
-#### Outputs
 #### Description
 
 ### Relization Step
-#### Inputs
-#### Outputs
 #### Description
 
